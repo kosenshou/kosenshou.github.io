@@ -16,7 +16,7 @@ Tools and Languages:
 
 ![My Bakeshop](https://github.com/kosenshou/kosenshou.github.io/blob/main/files/ss-mybakeshop.png?raw=true)
 <br>
-<a href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/files/ss-mybakeshop.png">View Image</a>
+<a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/files/ss-mybakeshop.png">View Image</a>
 
 ## Cent to Change (Mobile App)
 Features:
@@ -34,7 +34,7 @@ Tools and Languages:
 
 ![Cent to Change](https://github.com/kosenshou/kosenshou.github.io/blob/main/files/ss-centtochange.png?raw=true)
 <br>
-<a href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/files/ss-centtochange.png">View Image</a>
+<a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/files/ss-centtochange.png">View Image</a>
 
 ## Giving Hero (Mobile App)
 Features:
@@ -51,7 +51,7 @@ Tools and Languages:
 
 ![Giving Hero Mobile App](https://github.com/kosenshou/kosenshou.github.io/blob/main/files/ss-givinghero.png?raw=true)
 <br>
-<a href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/files/ss-givinghero.png">View Image</a>
+<a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/files/ss-givinghero.png">View Image</a>
 ![Giving Hero Web](https://github.com/kosenshou/kosenshou.github.io/blob/main/files/ss-givinghero2.png?raw=true)
 <br>
-<a href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/files/ss-givinghero2.png">View Image</a>
+<a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/files/ss-givinghero2.png">View Image</a>
