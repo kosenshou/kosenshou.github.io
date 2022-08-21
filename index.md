@@ -55,3 +55,8 @@ Tools and Languages:
 ![Giving Hero Web](https://github.com/kosenshou/kosenshou.github.io/blob/main/files/ss-givinghero2.png?raw=true)
 <br>
 <a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/files/ss-givinghero2.png">View Image</a>
+
+
+## Marina E-payment System (Web)
+
+## Lending System (Web)
