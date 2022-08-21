@@ -1,7 +1,18 @@
 This site showcases my projects working as a programmer.
 
 ## My Bakeshop (Mobile Game)
+Features:
+- Hidden Object
+- Rewards System via Achievements
+- Cake Customization
+- Shop Customization
+- Inventory System
 
+Platform:
+> Android and iOS
+
+Tools and Languages:
+> Unity3D, C#
 
 ## Cent to Change (Mobile App)
 Features:
