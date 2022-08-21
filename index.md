@@ -14,6 +14,8 @@ Platform:
 Tools and Languages:
 > Unity3D, C#
 
+![My Bakeshop](https://github.com/kosenshou/kosenshou.github.io/blob/main/files/ss-mybakeshop.png?raw=true)
+
 ## Cent to Change (Mobile App)
 Features:
 - Login System
@@ -28,7 +30,7 @@ Platform:
 Tools and Languages:
 > Android Studio, Xcode, Firebase, Java, Swift
 
-![alt text](https://github.com/kosenshou/kosenshou.github.io/blob/main/files/ss-centtochange.png?raw=true)
+![Cent to Change](https://github.com/kosenshou/kosenshou.github.io/blob/main/files/ss-centtochange.png?raw=true)
 
 ## Giving Hero (Mobile App)
 Features:
@@ -43,4 +45,5 @@ Platform:
 Tools and Languages:
 > Flutter, NodeJS, ExpressJS, MochaJS(Unit Test), VueJS, MySQL, AWS Lightsail, Dart, Javascript, Typescript
 
-![alt text](https://github.com/kosenshou/kosenshou.github.io/blob/main/files/ss-givinghero.png?raw=true)
+![Giving Hero Mobile App](https://github.com/kosenshou/kosenshou.github.io/blob/main/files/ss-givinghero.png?raw=true)
+![Giving Hero Web](https://github.com/kosenshou/kosenshou.github.io/blob/main/files/ss-givinghero2.png?raw=true)
