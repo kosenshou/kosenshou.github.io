@@ -12,15 +12,10 @@ Features:
 - Admin App (for approving donations)
 
 Platform:
-- Android
-- iOS
+> Android and iOS
 
-Tools and Language:
-- Android Studio
-- Xcode
-- Firebase
-- Java
-- Swift
+Tools and Languages:
+> Android Studio, Xcode, Firebase, Java, Swift
 
 ![alt text](https://github.com/kosenshou/kosenshou.github.io/blob/main/files/ss-centtochange.png?raw=true)
 
@@ -32,17 +27,9 @@ Features:
 - Givers comment section
 
 Platform:
-- Mobile
-- Web
+> Mobile and Web
 
-Tools:
-- Flutter
-- NodeJS
-- VueJS
-- MySQL
-- AWS Lightsail
-- Dart
-- Javascript
-- Typescript
+Tools and Languages:
+> Flutter, NodeJS, ExpressJS, MochaJS(Unit Test), VueJS, MySQL, AWS Lightsail, Dart, Javascript, Typescript
 
 ![alt text](https://github.com/kosenshou/kosenshou.github.io/blob/main/files/ss-givinghero.png?raw=true)
