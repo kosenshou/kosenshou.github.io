@@ -36,7 +36,7 @@ Tools and Languages:
 <br>
 <a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/files/ss-centtochange.png">View Image</a>
 
-## Giving Hero (Mobile App)
+## Giving Hero (Mobile and Web)
 Features:
 - Donation System (integrated payment sdk)
 - Email Receipt
