@@ -15,6 +15,7 @@ Tools and Languages:
 > Unity3D, C#
 
 ![My Bakeshop](https://github.com/kosenshou/kosenshou.github.io/blob/main/files/ss-mybakeshop.png?raw=true)
+<a href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/files/ss-centtochange.png">View Image</a>
 
 ## Cent to Change (Mobile App)
 Features:
