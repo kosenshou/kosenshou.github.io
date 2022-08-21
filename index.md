@@ -16,7 +16,7 @@ Android Studio (Java)
 Xcode (Swift)
 Firebase
 
-![alt text](https://github.com/kosenshou/kosenshou.github.io/blob/master/files/ss-centtochange.png?raw=true)
+![alt text](https://github.com/kosenshou/kosenshou.github.io/blob/main/files/ss-centtochange.png?raw=true)
 
 ## Giving Hero
 Features:
@@ -33,4 +33,4 @@ VueJS (Typescript)
 MySQL
 AWS Lightsail
 
-![alt text](https://github.com/kosenshou/kosenshou.github.io/blob/master/files/ss-givinghero.png?raw=true)
+![alt text](https://github.com/kosenshou/kosenshou.github.io/blob/main/files/ss-givinghero.png?raw=true)
