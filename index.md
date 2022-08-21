@@ -1,36 +1,52 @@
-This site showcases my projects working as a software developer.
+This site showcases my projects working as a programmer.
 
-## Cent to Change
+## My Bakeshop (Mobile Game)
+
+
+## Cent to Change (Mobile App)
 Features:
-Login System
-Donation System
-Virtual Wallet
-Ecommerce
-Admin App (for approving donations)
+
+> Login System
+> Donation System
+> Virtual Wallet
+> Ecommerce
+> Admin App (for approving donations)
 
 Platform:
-Android and iOS
 
-Tools:
-Android Studio (Java)
-Xcode (Swift)
-Firebase
+> Android and iOS
+
+Tools and Language:
+
+> Android Studio
+> Xcode
+> Firebase
+> Java
+> Swift
 
 ![alt text](https://github.com/kosenshou/kosenshou.github.io/blob/main/files/ss-centtochange.png?raw=true)
 
-## Giving Hero
+## Giving Hero (Mobile App)
 Features:
-Donation System (integrated payment sdk)
-Email Receipt
 
+> Donation System (integrated payment sdk)
+> Email Receipt
+> Dynamically generated giving page for nonprofits
+> Givers comment section
 
 Platform:
-Web
+
+> Mobile and Web
 
 Tools:
-NodeJS (Javascript)
-VueJS (Typescript)
-MySQL
-AWS Lightsail
+
+> Flutter
+> NodeJS
+> VueJS
+> MySQL
+> AWS Lightsail
+> Dart
+> Javascript
+> Typescript
 
 ![alt text](https://github.com/kosenshou/kosenshou.github.io/blob/main/files/ss-givinghero.png?raw=true)
