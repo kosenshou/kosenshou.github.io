@@ -56,7 +56,23 @@ Tools and Languages:
 <br>
 <a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/files/ss-givinghero2.png">View Image</a>
 
-
-## Marina E-payment System (Web)
-
 ## Lending System (Web)
+![Lending1](https://github.com/kosenshou/kosenshou.github.io/blob/main/perampc/ss-perampc-1.png?raw=true)
+<br>
+<a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/perampc/ss-perampc-1.png">View Image</a>
+<br>
+![Lending2](https://github.com/kosenshou/kosenshou.github.io/blob/main/perampc/ss-perampc-2.png?raw=true)
+<br>
+<a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/perampc/ss-perampc-2.png">View Image</a>
+<br>
+![Lending2](https://github.com/kosenshou/kosenshou.github.io/blob/main/perampc/ss-perampc-3.png?raw=true)
+<br>
+<a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/perampc/ss-perampc-3.png">View Image</a>
+<br>
+![Lending2](https://github.com/kosenshou/kosenshou.github.io/blob/main/perampc/ss-perampc-4.png?raw=true)
+<br>
+<a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/perampc/ss-perampc-4.png">View Image</a>
+<br>
+![Lending2](https://github.com/kosenshou/kosenshou.github.io/blob/main/perampc/ss-perampc-5.png?raw=true)
+<br>
+<a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/perampc/ss-perampc-5.png">View Image</a>
