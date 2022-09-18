@@ -10,23 +10,23 @@ Tools and Programming Language Used:
 
 ![SHDA1](https://github.com/kosenshou/kosenshou.github.io/blob/main/shda/ss-shda-1.png?raw=true)
 <br>
-<a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/perampc/ss-shda-1.png">View Image</a>
+<a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/shda/ss-shda-1.png">View Image</a>
 <br>
 ![SHDA2](https://github.com/kosenshou/kosenshou.github.io/blob/main/shda/ss-shda-2.png?raw=true)
 <br>
-<a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/perampc/ss-shda-2.png">View Image</a>
+<a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/shda/ss-shda-2.png">View Image</a>
 <br>
 ![SHDA3](https://github.com/kosenshou/kosenshou.github.io/blob/main/shda/ss-shda-3.png?raw=true)
 <br>
-<a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/perampc/ss-shda-3.png">View Image</a>
+<a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/shda/ss-shda-3.png">View Image</a>
 <br>
 ![SHDA4](https://github.com/kosenshou/kosenshou.github.io/blob/main/shda/ss-shda-4.png?raw=true)
 <br>
-<a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/perampc/ss-shda-4.png">View Image</a>
+<a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/shda/ss-shda-4.png">View Image</a>
 <br>
 ![SHDA5](https://github.com/kosenshou/kosenshou.github.io/blob/main/shda/ss-shda-5.png?raw=true)
 <br>
-<a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/perampc/ss-shda-5.png">View Image</a>
+<a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/shda/ss-shda-5.png">View Image</a>
 
 ## Lending System (Web)
 Description:
