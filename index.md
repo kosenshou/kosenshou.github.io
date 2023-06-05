@@ -4,9 +4,15 @@ This site showcases my projects working as a programmer.
 Description:
 - A web platform for architech and engineers to connect with local construction suppliers.
 
-Tools and Programming Language Used:
-- NextJS, ReactJS
-- TailwindCSS
+Features:
+- blog system
+- friend/connection system
+- chat system
+
+Stack:
+- ReactJS
+- Laravel
+- Material UI
 
 ![SHDA1](https://github.com/kosenshou/kosenshou.github.io/blob/main/shda/ss-shda-1.png?raw=true)
 <br>
