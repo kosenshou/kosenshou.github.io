@@ -28,34 +28,6 @@ Tools and Programming Language Used:
 <br>
 <a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/shda/ss-shda-5.png">View Image</a>
 
-## Lending System (Web)
-Description:
-- Demo project for lending system
-
-Tools and Programming Language Used:
-- Laravel Blade, AlpineJS
-- Html, CSS, Javascript, PHP
-
-![Lending1](https://github.com/kosenshou/kosenshou.github.io/blob/main/perampc/ss-perampc-1.png?raw=true)
-<br>
-<a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/perampc/ss-perampc-1.png">View Image</a>
-<br>
-![Lending2](https://github.com/kosenshou/kosenshou.github.io/blob/main/perampc/ss-perampc-2.png?raw=true)
-<br>
-<a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/perampc/ss-perampc-2.png">View Image</a>
-<br>
-![Lending2](https://github.com/kosenshou/kosenshou.github.io/blob/main/perampc/ss-perampc-3.png?raw=true)
-<br>
-<a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/perampc/ss-perampc-3.png">View Image</a>
-<br>
-![Lending2](https://github.com/kosenshou/kosenshou.github.io/blob/main/perampc/ss-perampc-4.png?raw=true)
-<br>
-<a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/perampc/ss-perampc-4.png">View Image</a>
-<br>
-![Lending2](https://github.com/kosenshou/kosenshou.github.io/blob/main/perampc/ss-perampc-5.png?raw=true)
-<br>
-<a target="_blank" href="https://raw.githubusercontent.com/kosenshou/kosenshou.github.io/main/perampc/ss-perampc-5.png">View Image</a>
-
 ## Giving Hero (Mobile and Web)
 Features:
 - Donation System (integrated payment sdk)
